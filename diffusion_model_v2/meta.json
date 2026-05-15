@@ -1,0 +1,1 @@
+{"T": 1000, "N_FEATURES": 13, "FEATURE_COLS": ["followers_count", "friends_count", "statuses_count", "favourites_count", "verified", "active_years", "tweets_per_day", "ff_ratio", "fav_per_tweet", "retweet_ratio", "reply_ratio", "url_ratio", "unique_ratio"]}
