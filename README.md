@@ -1,4 +1,6 @@
-# TwiBot-22 Augmentation: Sample Data
+# Twibot22Augumentation
+
+Twibot22Augumentation — sample data for diffusion-based augmentation on TwiBot-22.
 
 This repository hosts a **small sample** of the data used in our diffusion-based debiasing study on TwiBot-22 for LLM-driven social bot detection.
 
